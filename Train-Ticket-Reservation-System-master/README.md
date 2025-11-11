@@ -177,7 +177,7 @@ Step 6: Check Running The Site At  <a Href="Http://localhost:8083/trainbook/">ht
 
 Step 7: Default Username And Password For Admin Is "admin@demo.com" And "admin"
 
-Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
+Step 8: Default Username And Password For User Is "anukriti@demo.com" And "anukriti"
 
 
 
@@ -216,10 +216,7 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 12. Change Password
 <img alt="Change user Password" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/passwordchange.png" width="100%">
 
-13. Add Trains By Admin
-<img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
 
 
-#### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
+
+
